@@ -2,7 +2,7 @@ import { useState, useRef } from "react";
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const TELEGRAM_CHAT_ID = "7477833460";
-const TELEGRAM_BOT_TOKEN = ""; // paste your bot token here
+const TELEGRAM_BOT_TOKEN = "8705999464:AAEoDt-HfGbVQipoWWGL954iKCLXYI4GWtM";
 const AMAZON_TAG = "ericcoste-20";
 
 const AFFILIATE_MAP = {
